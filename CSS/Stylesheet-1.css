@@ -4,7 +4,7 @@ body{
 	font-style: italic;
 	border-right: 730px;
 }
-.clase{
+p.clase{
 	border: #ffffff double 4px;
     padding-left: 1.2em;
 	border-radius: 3em;
