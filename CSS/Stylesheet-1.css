@@ -5,10 +5,12 @@ body{
 	border-right: 730px;
 }
 p.clase{
-	border: #ffffff double 4px;
+    border: #ffffff double 4px;
     padding-left: 1.2em;
-	border-radius: 3em;
+    border-radius: 3em;
     width: 700px;
+    Background-color: #2790B8;
+    
 }
 h1{
 	font-style: Sans-Serif;
