@@ -3,5 +3,10 @@ body{
 	color: #ffffff;
 	font-style: italic;
 	border-right: 730px;
-
+}
+.clase{
+	border: #474747 double 4px;
+    padding-left: 1.2em;
+	border-radius: 3em;
+    width: 700px;
 }
