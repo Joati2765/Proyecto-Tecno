@@ -15,3 +15,8 @@ p.clase{
 h1{
 	font-style: Sans-Serif;
 }
+.columnas{
+	column: 4 250px;
+	column-gap: 3rem;
+	column-rule: 3px;
+}
