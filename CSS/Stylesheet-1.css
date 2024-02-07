@@ -19,6 +19,7 @@ h1{
 	column: 4 260px;
 	column-gap: 25px;
 	column-rule: 3px;
+	column-rule: 4px solid;
 }
 img{
 	width: 250px;
