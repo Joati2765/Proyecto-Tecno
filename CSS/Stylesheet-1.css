@@ -20,7 +20,7 @@ h1{
 	column-gap: 25px;
 	column-rule: 3px;
 	column-rule: 4px solid #000000;
-	display: inline;
+	display: inline-block;
 }
 img{
 	width: 250px;
