@@ -20,11 +20,12 @@ h1{
 	column-gap: 25px;
 	column-rule: 3px;
 	column-rule: 4px solid #000000;
+	display: inline;
 }
 img{
 	width: 250px;
 	height: 200px;
-	display: inline;
+	display: block;
 }
 article p{
 	width: 250px;
