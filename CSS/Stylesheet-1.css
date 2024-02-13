@@ -27,8 +27,7 @@ img{
 	height: 200px;
 	Margin: 0 30px;
 }
-article p{
-	width: 250px;
-    Margin: 0 30px;
+h2, h1{
+	text-align: center;
+	border-bottom: 2px #000 solid;
 }
-
