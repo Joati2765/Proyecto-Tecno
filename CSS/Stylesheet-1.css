@@ -29,5 +29,5 @@ img{
 }
 h2, h1{
 	text-align: center;
-	border-bottom: 2px #000 solid;
+	display: underline;
 }
