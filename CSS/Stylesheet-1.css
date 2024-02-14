@@ -38,3 +38,13 @@ h2, h1{
 	height: 150px;
 	border: #000000 2px solid;
 }
+a{
+	color: #80D5FF;
+}
+a:hover, focus{
+        color: #B167FF;
+	text-decoration: none;
+}
+a:active{
+	color: #FF2828;
+}
