@@ -33,4 +33,6 @@ h2, h1{
 }
 .planeta{
 	float: left;
+	width: 150px;
+	height: 150px;
 }
