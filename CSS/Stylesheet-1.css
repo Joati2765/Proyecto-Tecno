@@ -48,3 +48,6 @@ a:hover, focus{
 a:active{
 	color: #FF2828;
 }
+a:visited{
+	color: #67E8FF;
+}
