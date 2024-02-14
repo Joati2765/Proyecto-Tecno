@@ -5,12 +5,14 @@ body{
 	border-right: 730px;
 }
 .clase{
-    border: #000000 double 4px;
-    padding-left: 1.2em;
-    border-radius: 3em;
-    width: 1000px;
-    Background-color: #00C8D8;
-    
+        border: #000000 double 4px;
+        padding-left: 1.2em;
+	
+        border-radius: 3em;
+        width: 1000px;
+        Background-color: #00C8D8;
+        display: block;
+	height: 140px;
 }
 h1{
 	font-style: Sans-Serif;
