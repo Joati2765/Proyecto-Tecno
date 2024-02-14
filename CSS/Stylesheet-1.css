@@ -26,6 +26,7 @@ img{
 	width: 250px;
 	height: 200px;
 	Margin: 0 30px;
+	border: #000000 2px solid;
 }
 h2, h1{
 	text-align: center;
@@ -35,4 +36,5 @@ h2, h1{
 	float: left;
 	width: 150px;
 	height: 150px;
+	border: #000000 2px solid;
 }
